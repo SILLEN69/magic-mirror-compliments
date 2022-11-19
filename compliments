@@ -1,0 +1,24 @@
+{
+                anytime: [
+                        "Tjena"
+                ],
+                morning: [
+                        "God morgon Elias",
+                        "Glöm inte att borsta tänderna",
+                        "snälla sminka dig. du är väldigt ful"
+                ],
+                afternoon: [
+                        "Wow... du borde banta några kilo",
+                        "ush!",
+                        "städa ditt rum det ser ut som om hiroshima kommit på besök"
+                ],
+                evening: [
+                        "du ser ut som en gorilla",
+                        "När jag ser dig så ångrar jag att jag blev en spegel",
+                        "du är en blåfotad sula"
+                ],
+                "....-01-01": [
+                        "gott nytt år!"
+                ]
+        }
+
